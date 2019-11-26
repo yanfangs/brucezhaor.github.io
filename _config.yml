@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-title: BZR
-SEOTitle: BruceZhao's Blog
-author: Bruce Zhao
+title: Yanfang Song
+SEOTitle: Yanfang Song's Blog
+author: Yanfang Song
 timezone: Asia/Shanghai
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
@@ -40,23 +40,23 @@ BASE_PATH:
 
 # SNS settings
 
-weibo_username:     brucezhaor
-facebook_username:     BruceZhaoR
-github_username:    BruceZhaoR
-google_username:  101167914127123982138/posts
+weibo_username:     派大星麻烦
+facebook_username:     Yanfang Song
+github_username:    yanfangs
+google_username:  yanfangsong2020@u.northwestern.edu
 RSS: feed.xml
-email: brucezhaor2016@gmail.com
-linkedin: brucezhaor
+email: YanfangSong2020@u.northwestern.edu
+linkedin: Yanfang Song
 
 anchorjs: true                          # 修改在default.html->footer
 
 
 # 评论系统
 # Duoshuo settings
-duoshuo_username: brucezhaor
+duoshuo_username: Yanfang Song
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-url: "http://brucezhaor.github.io" 
+url: "http://yanfangs.github.io" 
 
 # page Sidebar settings
 sidebar-about-description: "A future technique geek."
@@ -67,8 +67,8 @@ sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 # Friends
 friends: [
 	{   
-        title: "R学习社区",
-        href: "http://bzrlc.github.io/about/"
+        title: "Blog-模板来源-Bruce Zhao",
+        href: "https://github.com/BruceZhaoR/brucezhaor.github.io"
 	},{
         title: "Hux-模板来源",
         href: "https://github.com/Huxpro/huxpro.github.io"
